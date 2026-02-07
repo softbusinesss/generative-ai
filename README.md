@@ -1,9 +1,6 @@
 <p align="center"> <a href="https://github.com/softbusinesss/generative-ai"> <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="300" alt="Generative AI Hub"> </a> </p>
 Generative AI Learning & Resource Hub
 
-Your Go‑To Repository for Comprehensive Generative AI Guides, Tutorials, and Use Cases
-
-<div align="center"> <img src="https://img.shields.io/badge/python‑AI‑learning‑blue"/> <img src="https://img.shields.io/badge/License‑MIT‑blue"/> </div>
 🌟 Overview
 
 This repository is designed to be an end‑to‑end learning hub for Generative AI (GenAI) — covering foundational concepts, hands‑on use cases, tools, and practical projects. It’s crafted for developers, students, and AI practitioners who want to go from GenAI fundamentals to real‑world applications.
